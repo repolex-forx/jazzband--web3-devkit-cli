@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "web3-devkit-cli",
+  "versions": [
+    {
+      "commit": "402875cce9baa65f8225124a187a7d6a77ea203a",
+      "tag": "",
+      "parsed_at": "2026-10-11T03:08:15.285800+00:00"
+    }
+  ]
+}

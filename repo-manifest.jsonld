@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/web3-devkit-cli/commit/402875cce9baa65f8225124a187a7d6a77ea203a",
       "git:hexsha": "402875cce9baa65f8225124a187a7d6a77ea203a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

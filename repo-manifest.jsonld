@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/jazzband/web3-devkit-cli",
+  "@type": "gh:Repository",
+  "gh:name": "web3-devkit-cli",
+  "gh:owner": "jazzband",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/jazzband/web3-devkit-cli/commit/402875cce9baa65f8225124a187a7d6a77ea203a",
+      "git:hexsha": "402875cce9baa65f8225124a187a7d6a77ea203a",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
